@@ -3,11 +3,10 @@ kxzws/kxzws is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there, I'm ✨Aliona✨
-
-## I'm a Front-end developer and I graduated from [BSUIR](https://www.bsuir.by/) with a diploma with honors
+# Hi! I'm Aliona and I'm a Frontend developer
 <ins>Here is my [portfolio](https://github.com/kxzws/portfolio)!</ins>
 
+### I graduated from [BSUIR](https://www.bsuir.by/) with a diploma with honors
 I have already completed following The Rolling Scopes School courses: [JavaScript/Front-end 2021Q3](https://app.rs.school/certificate/tx8t0n0y) and [React 2022Q1](https://app.rs.school/certificate/k73f0n75)
 
 ### Contact me:
