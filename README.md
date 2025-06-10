@@ -11,7 +11,7 @@ I have already completed following The Rolling Scopes School courses: [JavaScrip
 
 ### Contact me:
 [<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="padding-right:6px;" />](https://t.me/kxzws)
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:6px;" />](https://www.linkedin.com/in/al-bulanova/)
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:6px;" />](https://www.linkedin.com/in/al-surikova/)
 or my e-mail kxzws54@gmail.com
   
 ### Languages and Tools:
